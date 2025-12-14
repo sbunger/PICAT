@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LM35")(type "KiCad")(uri "${KIPRJMOD}/LM35DMX_NOPB")(options "")(descr ""))
+  (lib (name "mod")(type "KiCad")(uri "${KIPRJMOD}/mod.pretty")(options "")(descr ""))
+)
