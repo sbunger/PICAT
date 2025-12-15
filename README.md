@@ -11,10 +11,9 @@ PCBs were created competely by hand in KICAD.
 
 
 
-## Renders (Front Silkscreen out of date)
+## Renders
 
 <img src="/images/render.png">
-<img src="/images/back.png">
 
 ## BOM
 | Product Name | Link | Quantity | Total Cost (Tax Included) | 
