@@ -3,6 +3,11 @@ PiCat is a custom devboard created with help from HackClub! The board is complet
 
 I created this project gain experience working on PCBs while creating a product I will use. I plan to use at least one of the two devboards as an LED controller in a 3d printed lamp, and the other one will be used for a future project. 
 
+## Photos!
+
+<img src="/images/board.png" width="25%">
+<img src="/images/IMG_2569.jpeg" width="25%>
+
 ## PCB and Schematics
 PCBs were created competely by hand in KICAD.
 
