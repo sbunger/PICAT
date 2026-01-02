@@ -3,6 +3,8 @@ PiCat is a custom devboard created with help from HackClub! The board is complet
 
 I created this project gain experience working on PCBs while creating a product I will use. I plan to use at least one of the two devboards as an LED controller in a 3d printed lamp, and the other one will be used for a future project. 
 
+The devboard can be controlled through circuitpython and arduino. Right now, I am using circuitpython to make two LEDs blink (example file in code folder).
+
 ## Photos!
 
 <img src="/images/board.png" width="25%">
