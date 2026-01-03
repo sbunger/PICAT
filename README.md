@@ -8,7 +8,7 @@ The devboard can be controlled through circuitpython and arduino. Right now, I a
 ## Photos!
 
 <img src="/images/board.png" width="25%">
-<img src="/images/IMG_2569.jpeg" width="25%>
+<img src="/images/IMG_2569.jpeg" width="25%">
 
 ## PCB and Schematics
 PCBs were created competely by hand in KICAD.
